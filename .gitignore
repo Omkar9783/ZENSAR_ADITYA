@@ -1,0 +1,12 @@
+# Ignore everything
+*
+
+# But keep these
+!*.java
+!*.bat
+!*.command
+!README.md
+!lib/
+!lib/*.jar
+!setup.sql
+!.gitignore
