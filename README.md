@@ -2,6 +2,8 @@
 
 A robust, Java-based ATM simulation application demonstrating advanced Object-Oriented Programming (OOP) principles, Swing GUI implementation, and MySQL database integration.
 
+![Verified](https://img.shields.io/badge/Commits-Verified-brightgreen)
+
 ## 🚀 Features
 
 - **Graphical User Interface (GUI)**: Built with Java Swing for a modern, responsive user experience.
